@@ -1,0 +1,17 @@
+.btn-suc {
+	background-color: #117a8b;	
+	border-top-right-radius: 1rem;
+	  border-bottom-left-radius: 1rem;
+  }
+	  .btn-suc:hover{
+	  background-color: white;
+	  color:black;
+	  border: solid 2px #117a8b;
+	  border-top-right-radius:3rem;
+	  }
+	  .btn-suc:focus{
+	  background-color: #117a8b;
+	  color:white;
+	  border: solid 1px #117a8b;
+	  border-top-right-radius:3rem;
+	  }
